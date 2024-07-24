@@ -92,10 +92,6 @@ video {
     color: WHITE;
     filter: drop-shadow(0px 0px 16.5px white);
     padding: 0px 5px;
-
-    & h1 {
-      background-image: var(--usernameEffects);
-    }
   }
 
   & main {
